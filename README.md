@@ -11,7 +11,7 @@ This repository holds my solutions for the OverTheWire wargames. I'll keep addin
 
 ### Currently Completed Machines
 
-- *List your completed machines here...*
+- 1/2 of Bandit
 
 Feel free to check back for updates as I progress through the wargames!
 
